@@ -44,11 +44,15 @@ python -m unittest tests.py
 
 ## Models Implemented
 ### Vasicek Model
-\[ dr_t = a (b - r_t) dt + \sigma dW_t \]
+$$
+d r_t = a (b - r_t) dt + \sigma dW_t
+$$
 - Mean-reverting stochastic process.
 
 ### Ho-Lee Model
-\[ dr_t = \theta dt + \sigma dW_t \]
+$$
+d r_t = \theta dt + \sigma dW_t
+$$
 - No mean reversion, pure Brownian motion.
 
 ## License
