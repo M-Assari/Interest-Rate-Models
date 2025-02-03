@@ -23,7 +23,7 @@ Interest-Rate-Models/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/M-Assari/Interest-Rate-Models.git
    cd Interest-Rate-Models
    ```
 2. Install dependencies:
